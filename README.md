@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hemraj Deshmukh</h1>
 <h3 align="center">As a passionate Full Stack learner, I blend enthusiasm with skill to create digital wonders. from India</h3>
 
-<img align="right" width=400 alt="coding.." src="https://avatars.githubusercontent.com/u/158449792?s=400&u=8b548228e822cc604c146e119e8ee95c7fce6000&v=4"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemraj0906&label=Profile%20views&color=0e75b6&style=flat" alt="hemraj0906" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemraj0906" alt="hemraj0906" /></a> </p>
 
+<img align="right" width=400 alt="coding.." src="https://avatars.githubusercontent.com/u/158449792?s=400&u=8b548228e822cc604c146e119e8ee95c7fce6000&v=4"/>
 - 🔭 I’m currently working on **Project/Employee-Management-System{JIRA}**
 
 - 🌱 I’m currently learning **Full stack Architecture and TDD ,Testing framework ,jest ,mocha,chai**
