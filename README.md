@@ -8,13 +8,13 @@
 <img align="right" width=400 alt="coding.." src="https://avatars.githubusercontent.com/u/158449792?s=400&u=8b548228e822cc604c146e119e8ee95c7fce6000&v=4"/>
 - 🔭 I’m currently working on **Project/Employee-Management-System{JIRA}**
 
-- 🌱 I’m currently learning **Full stack Architecture and TDD ,Testing framework ,jest ,mocha,chai**
+- 🌱 I’m  **Full stack Architecture and Python ,React,Node and TDD ,Testing framework ,jest ,mocha,chai**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hemraj0906](https://github.com/Hemraj0906)
 
-- 💬 Ask me about **MERN stack Development ,DSA,C++,**
+- 💬 Ask me about **Full stack Development ,DSA,C++,**
 
-- 📫 How to reach me **https://www.linkedin.com/in/hemraj-deshmukh-371400235/**
+- 📫 How to reach me 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
